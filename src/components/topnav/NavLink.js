@@ -5,7 +5,7 @@ const StyledButton = styled(Button) ({
   background: '#FFFFFF',
   marginStart: "10px",
   '&:hover': {
-       background: "#FFFFFF",
+       background: "#efefef",
        color: "#343434"
     },
 });

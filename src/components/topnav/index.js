@@ -18,10 +18,10 @@ function TopNav() {
   return (
     <StyledAppBar >
       <StyledPageLinks component="div">
-        <NavLink text="Prueba" href="https://google.es" />
-        <NavLink text="Prueba" href="https://google.es" />
-        <NavLink text="Prueba" href="https://google.es" />
-        <NavLink text="Prueba" href="https://google.es" />
+        <NavLink text="Home" href="https://google.es" />
+        <NavLink text="Features" href="https://google.es" />
+        <NavLink text="Roadmap" href="https://google.es" />
+        <NavLink text="News" href="https://google.es" />
       </StyledPageLinks>
       <StyledPageLinks component="div">
         <PaperButton />
